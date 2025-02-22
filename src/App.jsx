@@ -1,4 +1,4 @@
-import { createBrowserRouter, HashRouter, RouterProvider } from "react-router-dom"
+import { createBrowserRouter, createHashRouter, HashRouter, RouterProvider } from "react-router-dom"
 import Layout from "./components/Layout.jsx";
 import Meals from "./components/Meals.jsx";
 import Area from "./components/Area.jsx";
